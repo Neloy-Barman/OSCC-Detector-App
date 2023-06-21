@@ -6,7 +6,7 @@
 
 |<h2>Browse Image</h2>|<h2>Capture Image</h2>|<h2>Navigate to Classify</h2>|
 |---------------------|----------------------|-----------------------------|
-|<img src="https://github.com/Neloy-Barman/OSCC-Detector-App/assets/110896263/6df889aa-b6ba-470c-834c-0776688d5ab8" width="280" height="500" />|<img src="https://github.com/Neloy-Barman/OSCC-Detector-App/assets/110896263/1a26dd6a-b454-4821-8121-127da79c40de" width="280" height="500" />|<img src="https://github.com/Neloy-Barman/OSCC-Detector-App/assets/110896263/bc9ae0be-ee7e-4d01-a939-e51715573587" width="280" height="500" />
+|<img src="https://github.com/Neloy-Barman/OSCC-Detector-App/assets/110896263/6df889aa-b6ba-470c-834c-0776688d5ab8" width="280" height="500" />|<img src="https://github.com/Neloy-Barman/OSCC-Detector-App/assets/110896263/1a26dd6a-b454-4821-8121-127da79c40de" width="280" height="500" />|<img src="https://github.com/Neloy-Barman/OSCC-Detector-App/assets/110896263/9dcf74b5-eb0d-4601-a3e9-df87dbe57773" width="280" height="500" />
 
 |<h2>Testing phase</h2>|<h2>OSCC Classification</h2>|<h2>Non-OSCC Classification</h2>|
 |----------------------|----------------------------|--------------------------------|
