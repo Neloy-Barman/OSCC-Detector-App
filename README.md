@@ -2,9 +2,8 @@
 
 ## What it does: - 
   If you give an histopathological image of OSCC examination, then the app can detect whether the given image is cancerous or not.
+  
 <h1><bold>Available Screens</bold></h1> 
-
-<h1>Available Screens</h1>
 
 |<h2>Browse Image</h2>|<h2>Capture Image</h2>|<h2>Navigate to Classify</h2>|
 |---------------------|----------------------|-----------------------------|
