@@ -2,6 +2,7 @@
 
 ## What it does: - 
   <bold>If you give an histopathological image of OSCC examination, then the app can detect whether the given image is cancerous or not.</bold>
+You can test with the images from the ### TEST IMAGES Folder.
   
 <h1><bold>Available Screens</bold></h1> 
 
@@ -16,4 +17,6 @@
 |<h2>Side Drawer</h2>|<h2>Cell Details</h2>|
 |--------------------|---------------------|
 |<img src="https://github.com/Neloy-Barman/OSCC-Detector-App/assets/110896263/ef588c79-436d-4d8f-b4ce-b5198512f16e" width="280" height="500" />|<img src="https://github.com/Neloy-Barman/OSCC-Detector-App/assets/110896263/7ed7d2a9-b858-4bd8-9c50-3095b5508ddc" width="280" height="500" />|
+
+### [N.B: As a deep learning model is implemented in mobile, so it won't give the same performance as in the pc due to hardware requirements.]
 
