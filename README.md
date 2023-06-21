@@ -10,5 +10,6 @@
 |<img src="https://github.com/Neloy-Barman/OSCC-Detector-App/assets/110896263/1ac5757a-d8fd-4c3a-892f-e4f041f0a56b" width="280" height="500" />|<img src="https://github.com/Neloy-Barman/OSCC-Detector-App/assets/110896263/87ef7a01-bac6-40ea-8ecf-43c31a905743" width="280" height="500" />|<img src="https://github.com/Neloy-Barman/OSCC-Detector-App/assets/110896263/58f79b19-81bf-4141-a67b-dc056c6a1a23" width="280" height="500" />
 |<h2>Side Drawer</h2>|<h2>Cell Details</h2>|
 |--------------------|---------------------|
-|<img src="https://github.com/Neloy-Barman/OSCC-Detector-App/assets/110896263/3f7dabad-bc47-4d13-88d9-1d2534f95b5" width="280" height="500" />|<img src="https://github.com/Neloy-Barman/OSCC-Detector-App/assets/110896263/7ed7d2a9-b858-4bd8-9c50-3095b5508ddc" width="280" height="500" />|
+|<img src="https://github.com/Neloy-Barman/OSCC-Detector-App/assets/110896263/ef588c79-436d-4d8f-b4ce-b5198512f16e" width="280" height="500" />|<img src="https://github.com/Neloy-Barman/OSCC-Detector-App/assets/110896263/7ed7d2a9-b858-4bd8-9c50-3095b5508ddc" width="280" height="500" />|
 
+![Screenshot_2023-06-18-16-00-45-583_com example oscc_detector]()
